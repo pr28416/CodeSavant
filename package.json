@@ -24,7 +24,7 @@
     "react-dom": "^17.0.1",
     "rehype-katex": "^5.0.0",
     "remark-math": "^4.0.0",
-    "url-loader": "^3.0.1"
+    "url-loader": "4.1.1"
   },
   "browserslist": {
     "production": [
